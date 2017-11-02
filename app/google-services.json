@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "263931770149",
+    "firebase_url": "https://engineerreq.firebaseio.com",
+    "project_id": "engineerreq",
+    "storage_bucket": "engineerreq.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:263931770149:android:a0d76cf0e8573329",
+        "android_client_info": {
+          "package_name": "com.example.pc.engineerreq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "263931770149-ocl4g03rk7enmg94p2m6uf3k8sist1b4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpuJ3RARcZR7pyF9UwWnA2MsXMi2zVomY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
